@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bulbasaur",
+    "price": 200,
+    "size": "medium",
+    "id": 1
+  },
+  {
+    "name": "Eevee",
+    "price": 500,
+    "size": "medium",
+    "id": 2
+  },
+  {
+    "name": "Charmander",
+    "price": 200,
+    "size": "large",
+    "id": 3
+  },
+  {
+    "name": "Pikachu",
+    "price": 100,
+    "size": "small",
+    "id": 4
+  },
+  {
+    "name": "Eevee",
+    "price": 500,
+    "size": "medium",
+    "id": 5
+  },
+  {
+    "name": "Mewtwo",
+    "price": 600,
+    "size": "large",
+    "id": 6
+  },
+  {
+    "name": "Charmander",
+    "price": 200,
+    "size": "medium",
+    "id": 7
+  },
+  {
+    "name": "Mayowa",
+    "price": 200,
+    "size": "large",
+    "id": 8
+  }
+]
